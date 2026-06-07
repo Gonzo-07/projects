@@ -31,3 +31,11 @@
 2. Implement multithreading
 3. Add timeout configuration
 4. Export results to a file
+
+## Disclaimer
+
+This project was built for educational purposes to learn Python, networking, and socket programming.
+
+Only scan systems you own or have explicit permission to test.
+
+The author is not responsible for any misuse of this software.
