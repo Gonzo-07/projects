@@ -1,0 +1,18 @@
+
+# nächste schritte 
+# socket-Doku lesen nochmal durchlesen
+# Code aufräumen
+# Verstehen, warum jede Zeile existiert           
+
+# Verbesserungen
+# 1. Implementieren welches protokoll auf welchen port läuft
+# 2. user imput ob man nach bestimmten protokollen suchen will oder nach generell offen
+# 3. Multi threading einbauen
+
+
+# Notizen
+# AF_INET = IPv4
+# SOCK_STREAM = TCP
+# connect() = versuche Verbindung zu Host:Port
+# Erfolg = Port offen
+# Exception = Port nicht erreichbar/geschlossen
