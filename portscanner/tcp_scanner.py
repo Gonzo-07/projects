@@ -73,8 +73,8 @@ elif known_port_suche == 'no':
     print("=================================================")
     sleep(2)
 
-    port_range_start = int(input("anfang der Port range angeben: "))
-    port_range_ende = int(input("ende der Port range angeben: "))
+    port_range_start = int(input("Anfang der Port range angeben: "))
+    port_range_ende = int(input("Ende der Port range angeben: "))
 
     print("=================================================")
     print("Eigene Port Suche wird gestartet")
