@@ -81,6 +81,6 @@ elif known_port_suche == 'no':
     print("=================================================")
     sleep(2)
 
-    for port in range(port_range_start, port_range_ende, +1):
+    for port in range(port_range_start, port_range_ende):
         if portscanner(port) is True:
             print(f"Port: {port} is open")
