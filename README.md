@@ -5,4 +5,5 @@
 - Python Scripts
 - Bash Scripts
 - Automations
+- small projects
 ---
